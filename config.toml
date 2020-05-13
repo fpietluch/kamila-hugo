@@ -1,6 +1,6 @@
-baseURL       = "http://example.org/"
-languageCode  = "en-us"
-title         = "Roxo | Creative Design Agency"
+baseURL       = "/"
+languageCode  = "pl-pl"
+title         = "Położna | mgr Kamila Łabędź"
 theme = "roxo-hugo"
 summarylength = 25
 
