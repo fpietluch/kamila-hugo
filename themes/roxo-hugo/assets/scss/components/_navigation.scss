@@ -1,17 +1,16 @@
 .site-navigation{
   padding: 20px 0;
   background: $white;
-  position: fixed;
-  top: 0;
+  position: absolute;
+  top: 10;
   width: 100%;
-  z-index: 1000;
-  transition: all 0.3s cubic-bezier(0.55, 0.085, 0.68, 0.53);
+  z-index: 10;
   @include desktop{
     background: $white;
     margin: 15px;
     border-radius: 5px;
     top: 0;
-    width: calc(100% - 20px);
+    width: calc(100% - 30px);
     box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.09);
   }
   @include mobile{
@@ -21,7 +20,7 @@
     padding: 0;
     margin: 0;
     img{
-      max-width: 400px;
+      max-width: 300px;
     }
   }
   .nav-item{
