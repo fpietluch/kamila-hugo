@@ -1,4 +1,4 @@
-enable : true
+enable : True
 heading : "Moja praca w liczbach"
 counter_item: 
   - title: "Uczestnicy szkoły rodzenia"
@@ -13,7 +13,7 @@ counter_item:
   - title: "Godziny porad telefonicznych"
     number: "140+"
 
-  - title: "Fiiżanki kawy"
+  - title: "Filiżanki kawy"
     number: "350+"
 
   - title: "Czas samokształcenia"

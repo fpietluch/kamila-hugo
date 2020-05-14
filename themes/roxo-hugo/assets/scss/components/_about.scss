@@ -1,13 +1,13 @@
 .site-about{
   &-header{
-    padding-top: 30px;
-    background-color: $gray;
+    padding-top: 60px;
+    background-color: $secondary-color;
     img{
       max-width: 100%;
-      object-fit: cover;
+      padding-bottom: 60px;
     }
     @include mobile{
-      padding-top: 60px;
+      margin-top: 80px;
       text-align: center;
     }
   }
@@ -18,9 +18,9 @@
   }
 
   &-company{
-    background: $gray;
+    background: $secondary-color;
     width: 40%;
-    padding: 25px 0px;
+    padding: 0px 0px;
     @include desktop{
       width: 100%;
       margin-bottom: 1px;
