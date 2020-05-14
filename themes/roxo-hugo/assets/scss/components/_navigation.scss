@@ -1,26 +1,28 @@
 .site-navigation{
-  padding: 20px 0;
+  padding: 10 20;
   background: $white;
-  position: absolute;
-  top: 10;
+  position: relative;
+  top: 0;
   width: 100%;
-  z-index: 10;
+  z-index: 1000;
   @include desktop{
     background: $white;
-    margin: 15px;
-    border-radius: 5px;
+    margin: 10px;
+    border-radius: 20px;
     top: 0;
     width: calc(100% - 30px);
     box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.09);
   }
   @include mobile{
-    padding: 15px;
+    padding: 10px;
+    position: relative;
   }
   .navbar-brand{
     padding: 0;
     margin: 0;
     img{
       max-width: 300px;
+
     }
   }
   .nav-item{
@@ -31,11 +33,12 @@
       font-family: $secondary-font;
       color: $text-color-dark;
       transition: all .3s ease;
-      padding: 15px 18px;
+      padding: 15px 15px 10px 20px;
       position: relative;
+
     }
     &:last-child{
-      margin-left: 15px;
+      margin-left: 20px;
     }
   }
   .navbar-toggler{
@@ -82,7 +85,7 @@
     padding: 12px 0;
     box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.09);
     @include mobile{
-      padding: 15px;
+      padding: 20px;
     }
   }
 }
