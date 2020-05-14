@@ -2,6 +2,10 @@
   &-header{
     padding-top: 30px;
     background-color: $gray;
+    img{
+      max-width: 100%;
+      object-fit: cover;
+    }
     @include mobile{
       padding-top: 60px;
       text-align: center;
@@ -20,11 +24,7 @@
     @include desktop{
       width: 100%;
       margin-bottom: 1px;
-    img{
-      max-width: 100%;
-      object-fit: cover;
 
-    }
     }
 
     h1{
