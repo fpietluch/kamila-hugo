@@ -1,21 +1,11 @@
 ---
 date: "2018-07-12T18:19:33+06:00"
-description: We are specialized in developing forward-thinking brand identities, websites,
-  illustration and animation for all types of customers. And we do this by bringing
-  our customers through each phase of the design process with us.
 expertise_sectors:
-- Customer Experience Design
-- Digital Products
-- Development
-- Campaign & Content
-- Employer Branding
-- Animation & Motion Graphics
-- Packaging & Product Design
-- Retail & Spacial
-- Print & Editorial Design
-- Concept/Text
-- Information Design
-expertise_title: Expertise
-heading: WE ARE ROXO DESIGN. AN AWARD-WINNING CREATIVE STUDIO IN FLORIDA.
+- Położna
+- Edukator ds. laktacji
+- Doradca chustonoszenia
+- Instruktor hipnoporodu
+expertise_title: mgr Kamila Łabędź
+heading: 
 title: About Us
 ---

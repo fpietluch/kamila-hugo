@@ -1,7 +1,7 @@
 ---
 category:
 - UI UX
-date: "2019-12-23T15:58:10+06:00"
+date: "2019-12-23T14:58:10+06:00"
 image: images/projects/project-thumb-one.jpg
 project_images:
 - images/projects/project-details-image-one.jpg
