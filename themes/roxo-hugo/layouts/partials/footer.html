@@ -10,23 +10,10 @@
           <h5 class="site-footer-widget-title">{{ .title }}</h5>
           <p class="site-footer-widget-description">
             {{ .address | safeHTML }}
-            <br>
             <a href="tel:{{ .phone }}">{{ .phone }}</a>
             <br>
             <a href="mailto:{{ .email }}">{{ .email }}</a>
           </p>
-        </div>
-      </div>
-      {{ end }}
-      {{ with .Site.Params.footer.sitemap }}
-      <div class="col-lg-2 col-md-6">
-        <div class="site-footer-widget">
-          <h5 class="site-footer-widget-title">{{ .title }}</h5>
-          <ul class="site-footer-widget-links">
-            {{ range .link }}
-            <li><a href="{{ .url | absURL }}">{{ .name }}</a></li>
-            {{ end }}
-          </ul>
         </div>
       </div>
       {{ end }}
@@ -37,6 +24,18 @@
           <ul class="site-footer-widget-links">
             {{ range .link }}
               <li><a href="{{ .url }}">{{ .name }}</a></li>
+            {{ end }}
+          </ul>
+        </div>
+      </div>
+      {{ end }}
+      {{ with .Site.Params.footer.sitemap }}
+      <div class="col-lg-2 col-md-6">
+        <div class="site-footer-widget">
+          <h5 class="site-footer-widget-title">{{ .title }}</h5>
+          <ul class="site-footer-widget-links">
+            {{ range .link }}
+            <li><a href="{{ .url | absURL }}">{{ .name }}</a></li>
             {{ end }}
           </ul>
         </div>
@@ -56,9 +55,9 @@
         <a href="#top" class="site-footer-widget-top">
           <img src="{{ "images/to-top.svg" | absURL }}" alt="back-to-top">
           <p>
-            I want to 
+            Przewiń do
             <br>
-            visit again
+            góry 
           </p>
         </a>
       </div>

@@ -1,14 +1,21 @@
 enable : true
-heading : "THE PROOF IS IN THE PUDDING!"
+heading : "Moja praca w liczbach"
 counter_item: 
-  - title: "Happy Clients"
-    number: "250"
+  - title: "Uczestnicy szkoły rodzenia"
+    number: "400+"
 
-  - title: "Projects Completed"
-    number: "100"
+  - title: "Godziny szkoły rodzenia"
+    number: "240+"
 
-  - title: "Cups of coffee"
-    number: "350"
+  - title: "Godziny porad indywidualnych"
+    number: "120+"
 
-  - title: "Telephone Talks"
-    number: "775"
+  - title: "Godziny porad telefonicznych"
+    number: "140+"
+
+  - title: "Fiiżanki kawy"
+    number: "350+"
+
+  - title: "Czas samokształcenia"
+    number: "∞"
+

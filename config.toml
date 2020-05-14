@@ -20,15 +20,17 @@ summarylength = 25
     name    = "Blog"
     url     = "blog"
     weight  = 3
-  [[menu.nav]]
-    name    = "Formularz kontaktowy"
-    url     = "contact"
-    weight  = 2
+
   [[menu.nav]]
     name    = "Wydarzenia"
     url     = "portfolio"
+    weight  = 4
+  [[menu.nav]]
+    name    = "Kontakt"
+    url     = "contact"
     weight  = 5
 
+ 
 # Site Params
 [params]
   logo = "images/logo.png"
@@ -46,20 +48,20 @@ summarylength = 25
   [params.banner]
     enable                = true
     background_image      = "images/backgrounds/hero-background.jpg"
-    heading               = "We’re a Design Studio That Belies In the Great Ideas"
-    tagline               = "WE WORK HARD, WE PLAY HARD"
-    primary_button        = "See Our Works"
-    primary_button_url    = "portfolio"
-    secondary_button      = "Connect with Us"
-    secondary_button_url  = "contact"
+    heading               = ""
+    tagline               = "Dużo ciekawych informacji znajdziesz również na prowadzonych przeze mnie profilach: "
+    primary_button        = "Facebook"
+    primary_button_url    = "https://www.facebook.com/midwife.talks"
+    secondary_button      = "Instagram"
+    secondary_button_url  = "https://www.instagram.com/midwife.talks/"
 
   [params.portfolio]
     enable    = true
-    title     = "OUR RECENT WORKS"
-    subtitle  = "Crafting experiences and seeking to make the complex clear & beautiful."
+    title     = "Nadchodzące wydarzenia:"
+
 
   [params.call_to_action]
-    enable              = true
+    enable              = false
     background_image    = "images/backgrounds/cta-background.jpg"
     title               = "LET’S WORK TOGETHER"
     primary_button      = "Submit Query"
@@ -71,39 +73,29 @@ summarylength = 25
     # Footer Contact Info
     [params.footer.contactInfo]
       title   = "Informacje kontaktowe"
-      phone   = "409-896-1444"
-      email   = "info@roxo.co"
+      phone   = "+48609877544"
+      email   = "kamila.labedz@outlook.com"
       # Footer Sitemap
       [params.footer.sitemap]
-        title   = "Sitemap"
+        title   = "Mapa strony"
         [[params.footer.sitemap.link]]
-          name = "About Company"
+          name = "O mnie"
           url  = "about"
         [[params.footer.sitemap.link]]
-          name = "Projects"
+          name = "Oferta"
           url  = "portfolio"
         [[params.footer.sitemap.link]]
           name = "Blog"
           url  = "blog"
         [[params.footer.sitemap.link]]
-          name = "Contact"
+          name = "Kontakt"
           url  = "contact"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
         [[params.footer.social.link]]
-          name = "Medium"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Behance"
-          url  = "#"
-        [[params.footer.social.link]]
-          name = "Dribbble"
-          url  = "#"
+          name = "Facebook"
+          url  = "https://www.facebook.com/midwife.talks"
         [[params.footer.social.link]]
           name = "Instagram"
-          url  = "#"
-      # Footer Service
-      [params.footer.service]
-        title       = "We help brands:"
-        description = "develop design solutions<br>produce valuable cultural content<br>create fresh brand experience"
+          url  = "https://www.instagram.com/midwife.talks/"
