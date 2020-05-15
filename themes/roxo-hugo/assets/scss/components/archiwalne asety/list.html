@@ -1,0 +1,46 @@
+{{ define "main" }}
+
+<section class="site-oferta-header">
+  <div class="container">
+    <div class="row">
+      <div class="col-12">
+        <div class="site-oferta-wrapper">
+          <div class="site-oferta-company">
+            <h5>
+              {{ .Params.heading }}
+            </h5>
+          </div>
+          <div class="site-oferta-description">
+            
+              <h5>
+              {{ .Description }}
+            </h5>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="site-expertiseoferta">
+  <div class="container">
+    <div class="row">
+      {{ with .Params.expertiseoferta_title }}
+      <div class="col-md-5">
+        <div class="section-title">
+          <h5>{{ . }}</h5>
+        </div>
+      </div>
+      {{ end }}
+      <div class="col-md-6">
+        <ul class="site-expertiseoferta-list">
+          {{ range .Params.expertiseoferta_sectors }}
+          <h5>{{ . }}</h5>
+          {{ end }}
+        </ul>
+      </div>
+    </div>
+  </div>
+</section>
+
+{{ end }}
