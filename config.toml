@@ -62,7 +62,7 @@ summarylength = 25
   [params.call_to_action]
     enable              = true
     background_image    = "images/backgrounds/cta-background.jpg"
-    title               = "Dużo ciekawych informacji znajdziesz również na prowadzonych przeze mnie profilach:"
+    title               = "Dużo ciekawych informacji znajdziesz również na moim profilu:"
     primary_button      = "Facebook"
     primary_button_url  = "https://www.facebook.com/midwife.talks"
     secondary_button    = "Instagram"
