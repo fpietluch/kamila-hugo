@@ -2,16 +2,18 @@
 category:
 - PRODUCT DESIGN
 date: "2019-12-23T15:56:43+06:00"
-image: images/projects/project-thumb-two.jpg
+image: images/pokruszone.png
 project_images:
-- images/projects/project-details-image-one.jpg
-- images/projects/project-details-image-two.jpg
+- images/pokruszone.png
+- images/pokruszone.png
+
 title: OSEN CLOCK
-type: portfolio
+type: 
 ---
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
 
+![pic](pokruszone.png) 
 
 The watch has the following features:
 
