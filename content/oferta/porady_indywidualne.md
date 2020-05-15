@@ -1,19 +1,13 @@
 ---
 author: Alexender Schoitiz
-date: "2019-12-24T13:45:06+06:00"
-feature_image: https://image.freepik.com/free-photo/cartoon-smile-samuel-smiles-smiley-face-team_121-67198.jpg
-image: images/blog/blog-post-04.jpg
-title: 'Weekendowa Szkoła Rodzenia: zajęcia grupowe'
+date: "2019-12-24T13:36:06+06:00"
+feature_image: images/blog/blog-details-image.jpg
+image: images/blog/blog-post-02.jpg
+title: 'Indywidualna Szkoła Rodzenia oraz porady prywatne '
 ---
-# Black Lines brand identity, by & Smith
+### Black Lines brand identity, by & Smith
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
-
-#### Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
 
 1. ROFL means Rolling on floor laughing.
 2. STFU means Shut the *freak* up.
@@ -39,4 +33,5 @@ Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. 
 
 
 > Paul Rand, graphic designer
+
 
