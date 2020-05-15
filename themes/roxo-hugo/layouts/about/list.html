@@ -5,15 +5,16 @@
     <div class="row">
       <div class="col-12">
         <div class="site-about-wrapper">
-          <div class="site-about-company">
+          <div class="site-about-description">
            <img src="{{ "images/ciastka.jpg" | absURL }}" alt="kamila" />
             <h1>
-              {{ .Params.heading }}
+              {{ .Description }}
             </h1>
           </div>
-          <div class="site-about-description">
+          <div class="site-about-company">
+	  <img src="{{ "images/ciastka.jpg" | absURL }}" alt="kamila" />
             <p>
-              {{ .Description }}
+              {{ .Params.heading }}
             </p>
           </div>
         </div>
