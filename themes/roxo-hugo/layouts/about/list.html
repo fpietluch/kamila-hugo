@@ -3,19 +3,18 @@
 <section class="site-about-header">
   <div class="container">
     <div class="row">
-      <div class="col-12">
-        <div class="site-about-wrapper">
-          <div class="site-about-description">
-           <img src="{{ "images/ciastka.jpg" | absURL }}" alt="kamila" />
+      <div class="col-12">       
+        <div class="site-about-wrapper">	   
+         <div class="site-about-company">
             <h1>
-              {{ .Description }}
+	      <img src="{{ "images/ciastka.jpg" | absURL }}" alt="kamila"/>
+              {{ .Params.heading }}
             </h1>
           </div>
-          <div class="site-about-company">
-	  <img src="{{ "images/rece_ktore_leczo.png" | absURL }}" alt="kamila"/>
-
+          <div class="site-about-description">
             <p>
-              {{ .Params.heading }}
+              <img src="{{ "images/rece_ktore_leczo.png" | absURL }}" alt="kamila" width=80% />
+              {{ .Description }}
             </p>
           </div>
         </div>
