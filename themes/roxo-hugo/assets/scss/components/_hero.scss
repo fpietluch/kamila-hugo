@@ -1,6 +1,6 @@
 .site-hero{
   position: relative;
-  height: 500vh;
+  height: 100vh;
   background-size: cover;
   background-position: center center;
   display: flex;
@@ -51,8 +51,8 @@
     }
   }
   &-scroll{
-    position: relative;
-    left: 50%; bottom: 100px;
+    position: absolute;
+    left: 50%; bottom: 70px;
     transform: translateX(-50%);
   }
 }
