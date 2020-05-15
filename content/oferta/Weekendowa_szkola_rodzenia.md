@@ -2,7 +2,7 @@
 author: Kamila Łabędź
 date: "2019-12-24T13:45:06+06:00"
 feature_image: https://image.freepik.com/free-photo/cartoon-smile-samuel-smiles-smiley-face-team_121-67198.jpg
-image:  https://image.freepik.com/free-photo/cartoon-smile-samuel-smiles-smiley-face-team_121-67198.jpg
+image: images/blog/panstwo.png
 title: 'Weekendowa Szkoła Rodzenia: zajęcia grupowe'
 ---
 #### Black Lines brand identity, by & Smith

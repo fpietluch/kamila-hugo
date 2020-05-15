@@ -1,8 +1,8 @@
 ---
 author: Alexender Schoitiz
 date: "2019-12-24T13:36:06+06:00"
-feature_image: images/blog/blog-details-image.jpg
-image: images/blog/blog-post-02.jpg
+feature_image: images/blog/pani.png
+image: images/blog/pani.png
 title: 'Indywidualna Szkoła Rodzenia oraz porady prywatne '
 ---
 ### Black Lines brand identity, by & Smith

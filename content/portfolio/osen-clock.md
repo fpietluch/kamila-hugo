@@ -1,13 +1,13 @@
 ---
 category:
-- PRODUCT DESIGN
+- Spotkania 
 date: "2019-12-23T15:56:43+06:00"
 image: images/pokruszone.png
 project_images:
 - images/pokruszone.png
 - images/pokruszone.png
 
-title: OSEN CLOCK
+title: Pokruszone
 type: 
 ---
 
