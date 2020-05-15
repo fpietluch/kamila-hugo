@@ -2,15 +2,16 @@
 <section class="site-contact">
   <div class="container">
     <div class="row">
-      <div class="col-lg-8">
+      <div class="col-lg-5">
        <div class="site-contact-title"> <br><br><br>
-          <h5>{{ .Params.heading | safeHTML }} {{ .Params.form_heading | safeHTML  }}</h5>
+          <h5>{{ .Params.heading | safeHTML }} <br></br> {{ .Params.form_heading | safeHTML  }}</h5>
         </div></br></br></br>
+
       </div>
-      <div class="col-lg-3">
+
+      <div class="col-lg-6 ml-auto">
         <div class="site-contact-title">
-	<img src="{{ "images/ciastka.jpg" | absURL }}" alt="kamila" width="150%"/>
-          <h5></h5>
+	<img src="{{ "images/ciastka.jpg" | absURL }}" alt="kamila"/>     
          
         </div>
       </div>
