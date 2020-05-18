@@ -13,7 +13,8 @@ type:
 
 The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
 
-![pic](pokruszone.png) 
+
+![pic](pokruszone.png)
 
 The watch has the following features:
 
