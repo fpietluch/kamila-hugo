@@ -1,37 +1,23 @@
 ---
-author: Alexender Schoitiz
+author: Kamila Łabędź
 date: "2019-12-24T13:36:06+06:00"
 feature_image: images/blog/pani.png
 image: images/blog/pani.png
 title: 'Indywidualna Szkoła Rodzenia oraz porady prywatne '
 ---
-### Black Lines brand identity, by & Smith
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+**Indywidualna Szkoła Rodzenia:**
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+Istnieje możliwość przeprowadzenia Indywidualnego Kursu Edukacji Przedporodowej dostosowanego tematycznie i czasowo do Waszych potrzeb.
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+**Wizyta domowa w granicach Wrocławia**
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+Wizyta poporodowa polegająca na zebraniu wywiadu dotyczącego przebiegu porodu, zbadanie mamy i noworodka, ocena aktu karmienia, jak również odpowiedź na wszystkie nurtujące pytania. Czas trwania wizyty to około 2 godziny.
 
-![blog-details-image-02](https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
+**Konsultacja przedporodowa**
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+Uczęszczałaś do Szkoły Rodzenia, a w dalszym ciągu masz wątpliwości? Chciałabyś powtórzyć jakiś temat albo po prostu porozmawiać? Konsultacja przedporodowa polega na rozmowie i omówieniu wybranych przez Ciebie zagadnień.
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
+**Nauka noszenia w chuście**
 
-
-> Paul Rand, graphic designer
-
-
+Jeżeli chcesz nauczyć się prawidłowo motać dziecko w chuście i uwolnić swoje ręce zapraszam do kontaktu 😊 Prawidłowo wykonane wiązanie jest bezpieczne od pierwszych dni życia dziecka, więc nie zwlekaj!

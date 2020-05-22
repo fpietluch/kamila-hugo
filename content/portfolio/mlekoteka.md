@@ -1,7 +1,7 @@
 ---
 category:
 - 28-05-2020
-date: "2019-12-23T15:56:43+06:00"
+date: "2020-05-28T15:56:43+06:00"
 image: "images/projects/mlekoteka.png"
 feature_image: "images/mlekoteka.png"
 title: "Wrocław Akcja Mlekoteka: Trudne dobrego początki"

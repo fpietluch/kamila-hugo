@@ -22,12 +22,13 @@
           {{ with .Params.image }}
           <div class="site-blog-post-thumb">
             <img src="{{ . | absURL }}" alt="post-thumb">
+            <br></br><br></br><br></br>
           </div>
           {{ end }}
           <div class="site-blog-post-content">
             <span>{{ .PublishDate.Format "2-01-2006" }}</span>
             <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
-            <br>
+
             <a href="{{ .Permalink }}" class="read-more">czytaj więcej...</a>
           </div>
         </article>

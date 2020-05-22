@@ -1,42 +1,56 @@
 ---
 author: Kamila Łabędź
 date: "2019-12-24T13:45:06+06:00"
-feature_image: https://image.freepik.com/free-photo/cartoon-smile-samuel-smiles-smiley-face-team_121-67198.jpg
+feature_image: images/blog/panstwo.png
 image: images/blog/panstwo.png
 title: 'Weekendowa Szkoła Rodzenia: zajęcia grupowe'
 ---
-#### Black Lines brand identity, by & Smith
+### **Weekendowa Szkoła Rodzenia – zajęcia grupowe:**
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+Zajęcia odbywają się w jeden weekend we Wrocławiu przy ul. Krawieckiej 1/5. Ilość miejsc jest ograniczona, na jednych zajęciach spotykają się maksymalnie cztery pary.  Termin zajęć dopasowywany jest do terminu porodu kursantów. Aby dokonać rezerwacji proszę o kontakt, najlepiej mailowy. 
 
-#### Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+#### **Plan kursu weekendowego:**
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+##### Pierwszy dzień – SOBOTA
 
-The company was previously known as Hingston + Co. but has been given a complete rebrand — including a new logo, tap badges, website and branded material — by London-based design studio & Smith. The new identity is based on the Kandinsky abstract painting, Black Lines, and true to its name, is mostly black and white with a few flashes of colour. According to & Smith, the identity brings together “art and science” and has been brought to life through collaborations with nine illustrators.
+ - Jak rozpoznać ze poród się rozpoczął? Kiedy wyruszyć do szpitala
+ - Torba do szpitala – co należy ze sobą zabrać?
+ - Fizjologia przebiegu porodu naturalnego
+ - Porodowy koktajl hormonów – emocje w porodzie
+ - Psychoprofilaktyka porodowa – jaki jest sens bólu porodowego? Co nasila jego odczuwanie?
+ - Naturalne metody łagodzenia bólu porodowego: masaż, hydroterapia, aromaterapia, TENS, elementy hipnoporodu
+ - Farmakologiczne metody łagodzenia bólu porodowego: gaz, znieczulenie zewnątrzoponowe
+ - Rola partnera w trakcie porodu
+ - Ćwiczenia w parach – masaż, pozycje wertykalne
+ - Cięcie cesarskie – wskazania planowe i nagłe, przygotowanie do cięcia cesarskiego, co się dzieje podczas operacji?
+ - Postępowanie po narodzinach dziecka – kontakt skóra do skóry, optymalne odpępnienie, punktacja w skali APGAR
+ - Przegląd okolicznych porodówek
+ - Ćwiczenia – nauka prawidłowego oddechu w trakcie porodu
+ - Warsztat – Tworzenie własnego Planu Porodu
 
-1. ROFL means Rolling on floor laughing.
-2. STFU means Shut the *freak* up.
-3. LMK means Let me know.
-4. ILY means I love you.
-5. YOLO means You only live once.
-6. SMH means Shaking my head.
+##### Drugi dzień – NIEDZIELA
 
-![blog-details-image-02](https://user-images.githubusercontent.com/16266381/71399826-2009b380-264f-11ea-9bc3-59d7fa9a9994.jpg)
+- Połóg po porodzie naturalnym i cięciu cesarskim. Jak się do niego przygotować?
+- Powrót płodności po porodzie
+- Baby blues – jak sobie z nim radzić?
+- Pielęgnacja ciała po porodzie: pielęgnacja krocza, blizny po cieciu cesarskim, piersi
+- Noworodek – jakie zabiegi medyczne wykonywane są w pierwszych dniach życia dziecka?
+- Stany przejściowe noworodka – co powinno niepokoić a co jest fizjologią?
+- Codzienna pielęgnacja noworodka – ubieranie/rozbieranie, przewijanie – zmiana pieluszki, jak nosić i układać?
+- Ćwiczenia – kąpiel w standardowej wanience, pielęgnacja skóry i kikuta pępowinowego
+- Chustonoszenie jako alternatywa prawidłowej stymulacji rozwoju dziecka
+- Fizjologia laktacji – pierwsze przystawienie, jak powstaje pokarm, wskaźniki skutecznego karmienia
+- Ćwiczenia – pierwsza pomoc w przypadku nagłych sytuacji, podstawy resuscytacji
 
-Black Lines wants it to be as easy to serve a Negroni as it is a pint of lager. The drinks company is seeking to revolutionise the bar experience by serving cocktails by draught with a changing menu of drinks (as well as same favourite stand-bys). A pink grapefruit spritz was served through the summer while a new pear and white tea fizz joins the line-up for winter.
+**Zastanawiasz się czy warto? Poznaj opinie moich absolwentów 😊**
 
-> "The public is more familiar with bad design than good design. It is, in effect, conditioned to prefer bad design, because that is what it lives with. The new becomes threatening, the old reassuring."
+„Zajęcia prowadzone z ogromnym szacunkiem zarowno do kobiet jak i mezczyzn, pozostawiajace przestrzeń na dokonanie samodzielnego wyboru. Podkreslanie bardzo waznej roli mezczyzny/ojca w przygotowaniu, porodzie i opiece. Ogromna wiedza merytoryczna. Szczerze bede polecac szkole.” 
 
+„Pani Kamila - super podejście do tematu, konkretnie, interesująco i w przystępny sposób, dziękujemy! :)”
 
-> Paul Rand, graphic designer
+„Dobrze, że jesteście.”
+
+„Dziękujemy za super zajęcia!”
+
+„Jak na osobę, która zawszeinteresowała się tematem większość treści teoretycznych była mi znana. Jednak psychicznie dobrze było usłyszeć "Jesteśmy do tego stworzone!"”
 
