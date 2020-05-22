@@ -54,6 +54,7 @@ summarylength = 25
     primary_button_url    = "https://www.facebook.com/midwife.talks"
     secondary_button      = "Instagram"
     secondary_button_url  = "https://www.instagram.com/midwife.talks/"
+    
   [params.portfolio]
     enable    = true
     title     = "Aktualności:"

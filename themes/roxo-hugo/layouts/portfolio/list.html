@@ -8,12 +8,13 @@
       <div class="col-lg-6 col-md-10 mx-auto">
         <div class="site-project-item">
           <div class="site-project-item-thumb">
-            <img src="{{ .Params.Image | absURL }}" alt="project-thumb">
+            <img src="{{ .Params.Image | absURL }}" alt="project-thumb"> 
+          <br></br><br></br>
           </div>
           <div class="site-project-item-content">
             <span>{{ delimit .Params.category ", " }}</span>
-            <h3>{{ .Title }}</h3>
-            <a href="{{ .Permalink }}" class="read-more">Więcej informacji...</a>
+            <a href="{{ .Permalink }}" class="dupa"> <h5> {{ .Title }} </h5> </a>
+     
           </div>
         </div>
       </div>

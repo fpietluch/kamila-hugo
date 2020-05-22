@@ -1,27 +1,17 @@
 {{ define "main" }}
 
-<section class="site-project-single-section">
+<section class="site-blog details">
   <div class="container">
-    <div class="row">
-      <div class="col-lg-8 mx-auto">
-        <div class="site-project-single">
-          <h1>
-            {{ .Title }}
-          </h1>
-          <div class="site-project-single-description">
-            {{ .Content }}
-          </div>
-          <div class="site-project-single-image">
-            {{ range .Params.project_images }}
-            <img src="{{ . | absURL }}" alt="project image">
-            {{ end }}
-          </div>
-
-        </div>
+    <div class="row justify-content-center">
+      <div class="col-lg-10">
+        <article class="site-blog-details">
+          <h2>{{ .Title }}</h2>
+          <br></br>
+          {{ .Content }}
+        </article>
       </div>
     </div>
   </div>
 </section>
-
 
 {{ end }}
