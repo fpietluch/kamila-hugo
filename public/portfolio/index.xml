@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Wydarzenia on Położna | mgr Kamila Łabędź</title>
+    <title>Aktualności on Położna | mgr Kamila Łabędź</title>
     <link>/portfolio/</link>
-    <description>Recent content in Wydarzenia on Położna | mgr Kamila Łabędź</description>
+    <description>Recent content in Aktualności on Położna | mgr Kamila Łabędź</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pl-pl</language>
     <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate>
@@ -12,11 +12,20 @@
     
     
     <item>
-      <title>Pokruszone</title>
-      <link>/portfolio/osen-clock/</link>
+      <title>Wrocław Akcja Mlekoteka: Trudne dobrego początki</title>
+      <link>/portfolio/mlekoteka/</link>
       <pubDate>Mon, 23 Dec 2019 15:56:43 +0600</pubDate>
       
-      <guid>/portfolio/osen-clock/</guid>
+      <guid>/portfolio/mlekoteka/</guid>
+      <description>W ramach Akcji Mlekoteka 2020🍼 serdecznie zapraszamy Was na warsztat – „Trudne dobrego początki”. Już 28 maja (czwartek!) o godzinie 🕕18:00 🕕 spotkamy się za pomocą platformy zoom.</description>
+    </item>
+    
+    <item>
+      <title>KIO TAPE</title>
+      <link>/portfolio/kio-tape/</link>
+      <pubDate>Mon, 23 Dec 2019 15:44:46 +0600</pubDate>
+      
+      <guid>/portfolio/kio-tape/</guid>
       <description>The “Seamless Watch” watch has all the features that users expect in a digital watch, and some unusual features.
 The watch has the following features:</description>
     </item>

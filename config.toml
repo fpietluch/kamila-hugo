@@ -39,7 +39,7 @@ summarylength = 25
   description = "Położna | Kamila Łabędź"
   author = "Kamila Łabędź"
   # Google Analitycs
-  googleAnalitycsID = "Your ID"
+  googleAnalitycsID = "UA-167442831-1"
   # We're using formspree.io for form handling, paste your formspree url below
   formspreeFormUrl  = "https://formspree.io/myykjpje"
 
