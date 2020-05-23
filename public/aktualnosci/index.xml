@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Aktualności on Położna | mgr Kamila Łabędź</title>
+    <link>/aktualnosci/</link>
+    <description>Recent content in Aktualności on Położna | mgr Kamila Łabędź</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pl-pl</language>
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate>
+    
+	<atom:link href="/aktualnosci/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Wrocław Akcja Mlekoteka: Trudne dobrego początki</title>
+      <link>/aktualnosci/mlekoteka/</link>
+      <pubDate>Thu, 28 May 2020 15:56:43 +0600</pubDate>
+      
+      <guid>/aktualnosci/mlekoteka/</guid>
+      <description>W ramach Akcji Mlekoteka 2020🍼 serdecznie zapraszamy Was na warsztat – „Trudne dobrego początki”. Już 28 maja (czwartek!) o godzinie 🕕18:00 🕕 spotkamy się za pomocą platformy zoom.</description>
+    </item>
+    
+  </channel>
+</rss>
