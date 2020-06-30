@@ -1,5 +1,5 @@
 ﻿---
-title: "Seks, a karmienie piersią"
+title: "Seks, a karmienie piersią."
 date: 2020-05-28T12:58:17+06:00
 image: images/blog/seksakarmieniemale.png
 author: Kamila Łabędź
