@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Jak dbać o piersi?"
 date: 2020-06-30T12:58:17+06:00
 image: images/blog/malepiersi.png
@@ -16,7 +16,7 @@ Najlepszym sposobem na uchronienie się przed nowotworem piersi jest profilaktyk
 
 Samobadanie piersi stanowi pierwszy krok w profilaktyce nowotworu. Pozwala nam na zauważenie najmniejszej zmiany w naszej piersi, często na takim etapie gdzie szanse na wyleczenie są bardzo optymistyczne. Jednak, żeby móc wykryć nawet najmniejszą różnicę w strukturze czy wyglądzie piersi musimy wykonywać samobadanie co miesiąc. Inaczej to całkowicie traci sens, ponieważ nie jesteśmy w stanie powiedzieć kiedy i w jakim stopniu piersi się zmieniły, po prostu ich nie znamy. 
 
-Jeżeli nie wiesz jak je wykonać, zgłoś się do swojej położnej - jeżeli jej nie masz złóż deklarację wyboru w placówce POZ, lub swojemu ginekologowi.  Niektóre miasta prowadzą program Profilaktyki Raka Piersi np.[Wrocław](http://www.spzoz.wroc.pl/programy-zdrowotne/rak-piersi). 
+Jeżeli nie wiesz jak je wykonać, zgłoś się do swojej położnej - jeżeli jej nie masz złóż deklarację wyboru w placówce POZ, lub swojemu ginekologowi.  Niektóre miasta prowadzą program Profilaktyki Raka Piersi np. [Wrocław](http://www.spzoz.wroc.pl/programy-zdrowotne/rak-piersi). 
 
 Badanie piersi powinnyśmy wykonywać tego samego dnia co miesiąc, najlepiej w I fazie naszego cyklu, zaraz po miesiączce. Czyli tak mniej więcej między 6. a 9. dniem. 
 
@@ -54,5 +54,5 @@ Mamy różne programy zachęcające do wykonywania USG np. [Dzień na U](http://
 Mammografia jest zalecana dla kobiet powyżej 40 r.ż., ponieważ z wiekiem nasze piersi zmieniają swoją strukturę i w późniejszych latach naszego życia przewagę stanowi tkanka tłuszczowa. W takiej sytuacji USG nie ma tak dużej czułości jak przy piersiach z budową gruczołową, więc powyżej 40 r.ż zaleca się mammografię raz na dwa lata - wymiennie z USG piersi.  Wykonujemy zdjęcia piersi przy użyciu promieni rentgenowskich, pierś układana jest na specjalnej podstawie i dociskana górną częścią aparatu. Badanie nie jest przyjemne i zaleca się wykonać je również w pierwszej fazie cyklu, gdzie piersi są mniej wrażliwe na ucisk. Jednak uczucie dyskomfortu jest chwilowe, a dzięki takiemu przeprowadzeniu badania, ilość promieni przechodzących przez tkankę jest minimalna. 
 
 
-Zastanów się co dla siebie zrobiłaś w ostatnim czasie i wpisz ważne daty do kalendarza. W ten sposób zrobisz dla siebie najlepszy prezent :) 
+Zastanów się co dla siebie zrobiłaś w ostatnim czasie i wpisz ważne daty do kalendarza. W ten sposób zrobisz dla siebie najlepszy prezent :).
 
