@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Dokarmiać czy nie dokarmiać? "
 date: 2020-05-23T12:58:17+06:00
 image: images/blog/butelkamala.png
 author: Kamila Łabędź
 ---
-﻿
+�
 ![](/images/blog/butelkaduza.png)
 
 Zazwyczaj pierwszy raz to pytanie słyszę na zajęciach szkoły rodzenia, kiedy przychodzi nam do rozmawiania na temat karmienia piersią.  Przyszłe mamy pytają jaka butelka najlepsza, a czy laktator zabierać do szpitala i jaka mieszanka modyfikowana na początek będzie okej.  Nauczeni doświadczeniem swoich znajomych, którym ktoś powiedział że mama ma „chude mleko”, albo „dziecko coś się z piersi nie najada”, już w czasie ciąży zaopatrują się w całe stosy przyrządów do karmienia.  Nikt nie zastanawia się czy dziecku to „dokarmianie” będzie faktycznie potrzebne. Wiedzą to już na etapie przygotowań, ponieważ większość oddziałów położniczych jest jaka jest. I tutaj nie ma co winić rodziców, którzy chcą dla swojego dziecka jak najlepiej i bardzo szybko wpadają w koło błędnego dokarmiania.
@@ -18,5 +18,15 @@ W drugiej dobie życia aktywność dziecka znacząco się zmienia, chce być tyl
 Dlatego nie daj się wpędzić w błędne koło dokarmiania. **Pamiętaj, że każde podanie mm powinno być skonsultowane np. edukatorem ds. laktacji lub z doradcą laktacyjnym.** [Aktualna lista doradców.](http://cnol.kobiety.med.pl/pl/doradcy-cdl/lista-doradcow/) 
 
 Pozwól swojemu noworodkowi ssać pierś! Okazuje się, że dzieci w wielu przypadkach są dużo mądrzejsze od nas 😊
+
+<script 
+async defer crossorigin="anonymous" src="https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v9.0" nonce="lbQF2LB5">
+</script>
+
+<meta property="fb:admins" content="filip.pietluch"/>
+
+<div
+class="fb-comments" data-href="https://kamilalabedz.netlify.app/blog/dokarmianie/" data-numposts="1" data-width="100%">
+</div>
 
 

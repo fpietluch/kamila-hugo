@@ -4,6 +4,9 @@ title         = "Położna | mgr Kamila Łabędź"
 theme = "roxo-hugo"
 summarylength = 25
 
+[markup.goldmark.renderer]
+unsafe= true
+
 # Site Menus
 [menu]
   # Navbar Menus

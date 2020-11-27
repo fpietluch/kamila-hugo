@@ -1,6 +1,7 @@
 {{ define "main" }}
 
 <section class="site-blog details">
+  <div id="fb-root"></div>
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-12">
@@ -8,6 +9,7 @@
           <p><span>{{ .Params.author }}</span> <span>{{ .PublishDate.Format "2-01-2006" }}</span></p>
           <h2 class="blog-title">{{ .Title }}</h2>
           {{ .Content }}
+	
         </article>
       </div>
     </div>

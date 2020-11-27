@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Połóg - czego się spodziewać?"
 date: 2020-09-11T12:58:17+06:00
 image: images/blog/pologmaly.png
@@ -32,4 +32,12 @@ Dobór aktywności fizycznej w okresie połogu powinien być uzależniony od Was
 
 W dalszych artykułach będę rozwijać dokładniej poszczególne elementy połogu. Temat jest bardzo szeroki i warto przygotować się do tego okresu. Ważne, aby również Twój partner przygotował się na ten czas po porodzie, ponieważ będzie Cię wspierał w momencie jak wrócicie razem z noworodkiem do domu. 
 
+<script 
+async defer crossorigin="anonymous" src="https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v9.0" nonce="lbQF2LB5">
+</script>
 
+<meta property="fb:admins" content="filip.pietluch"/>
+
+<div
+class="fb-comments" data-href="https://kamilalabedz.netlify.app/blog/pologczegosiespodziewac/" data-numposts="1" data-width="100%">
+</div>

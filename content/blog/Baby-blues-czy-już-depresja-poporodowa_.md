@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Baby blues czy depresja poporodowa? "
 date: 2020-05-22T12:58:17+06:00
 image: images/blog/smuteg.png
@@ -16,4 +16,14 @@ Ale co jeśli czas obniżonego nastroju nie mija? Czujemy się coraz bardziej pr
 Zgodnie z aktualnymi standardami opieki okołoporodowej kobieta powinna być badana w ciąży dwa razy w kierunku depresji i raz po porodzie.  Badanie powinna przeprowadzić położna środowiskowa na wizycie patronażowej. Jeżeli czujesz obniżony nastrój, a jesteś po porodzie powyżej tygodnia, możesz sama wypełnić [edynburską skalę depresji poporodowej.](http://www.depresja-poporodowa.pl/edynburska-skala-depresji-poporodowej.php) Pomoże Ci to zdecydować o konieczności wizyty u specjalisty.
 
 
+<script 
+async defer crossorigin="anonymous" src="https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v9.0" nonce="lbQF2LB5">
+</script>
 
+<meta property="fb:admins" content="filip.pietluch"/>
+
+<div
+class="fb-comments" data-href="https://kamilalabedz.netlify.app/blog/baby-blues-czy-już-depresja-poporodowa_/" data-numposts="1" data-width="100%">
+</div>
+
+<script data-ad-client="ca-pub-7152136589814095" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>

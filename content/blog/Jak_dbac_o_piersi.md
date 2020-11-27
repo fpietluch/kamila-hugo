@@ -56,3 +56,13 @@ Mammografia jest zalecana dla kobiet powyżej 40 r.ż., ponieważ z wiekiem nasz
 
 Zastanów się co dla siebie zrobiłaś w ostatnim czasie i wpisz ważne daty do kalendarza. W ten sposób zrobisz dla siebie najlepszy prezent :).
 
+<script 
+async defer crossorigin="anonymous" src="https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v9.0" nonce="lbQF2LB5">
+</script>
+
+<meta property="fb:admins" content="filip.pietluch"/>
+
+<div
+class="fb-comments" data-href="https://kamilalabedz.netlify.app/blog/jak_dbac_o_piersi/" data-numposts="1" data-width="100%">
+</div>
+

@@ -1,10 +1,10 @@
-﻿---
+---
 title: "Seks, a karmienie piersią."
 date: 2020-05-28T12:58:17+06:00
 image: images/blog/seksakarmieniemale.png
 author: Kamila Łabędź
 ---
-﻿﻿
+��
 
 **Odkąd rozpoczęłam pracę z kobietami jako położna jednym z problemów jaki zauważałam u moich podopiecznych było niezadowolenie z pożycia seksualnego. Przede wszystkim u tych kobiet, które karmią swoje dzieci piersią. Postanowiłam zbadać temat i dowiedzieć się co takiego dzieje się, że będąc po porodzie i karmiąc własne dziecko, albo nie mamy ochoty na podjęcie współżycia albo kompletnie nie jesteśmy z niego zadowolone.  Czy to zależy od hormonów? Czy jesteśmy tak zmęczone opieką nad dzieckiem, że kompletnie nie mamy na nic siły?**
 
@@ -24,4 +24,14 @@ To stwierdzenie często pojawia się w rozmowach dotyczących powrotu do współ
 
 #### Co zrobić, żeby sobie pomóc?
 
-Pierwszym co powinnyśmy zrobić, to przeprowadzić szczerą rozmowę z naszym partnerem. Często samo wyjaśnienie kilku kwestii pozwala na zrozumienie drugiej osoby, a nasze obawy okazują się bezzasadne. Po porodzie często tam „na dole” nie czujemy się komfortowo. Przede wszystkim należy skonsultować się z fizjoterapeutą uroginekologicznym. Zbada on mięśnie dna miednicy, popracuje z ewentualną blizną po nacięciu krocza i nauczy nas ćwiczeń, które można wykonywać aby poprawić i zwiększyć komfort podczas współżycia. Ważne jest również odbudowanie nabłonka pochwy po przebytym porodzie. Aktualnie na rynku jest wiele preparatów – kremów, żeli, globulek -  pozwalających na zwiększenie nawilżenia okolic intymnych. W składzie powinny mieć kwas hialuronowy, który wspomaga regenerację nabłonka i doskonale nawilża. Używanie środka nawilżającego jest równie szczególnie ważne w trakcie współżycia, gdy nadal karmimy dziecko piersią, a nabłonek pochwy nie produkuje wystarczająco dużo wydzieliny, aby seks był dla kobiety przyjemnością. Warto zaopatrzyć się w lubrykant i stosować go w trakcie stosunku. Jeżeli obawiasz się, że wystąpi np. wypływ mleka, załóż sobie ulubiony stanik, aby nie myśleć o tym w trakcie współżycia.  Nie rób niczego na siłę i pomyśl o innych formach zbliżenia z partnerem, które będzie dla Was obojga satysfakcjonujące, a nie będzie wymagało pełnej penetracji.  Pamiętaj, że seks po porodzie będzie inny i możesz mieć wrażenie jakbyś robiła to pierwszy raz, dlatego podejdź do tego na luzie i zaangażuj partnera, ponieważ łatwiej będzie się odnaleźć w nowej sytuacji we dwoje. 
+Pierwszym co powinnyśmy zrobić, to przeprowadzić szczerą rozmowę z naszym partnerem. Często samo wyjaśnienie kilku kwestii pozwala na zrozumienie drugiej osoby, a nasze obawy okazują się bezzasadne. Po porodzie często tam „na dole” nie czujemy się komfortowo. Przede wszystkim należy skonsultować się z fizjoterapeutą uroginekologicznym. Zbada on mięśnie dna miednicy, popracuje z ewentualną blizną po nacięciu krocza i nauczy nas ćwiczeń, które można wykonywać aby poprawić i zwiększyć komfort podczas współżycia. Ważne jest również odbudowanie nabłonka pochwy po przebytym porodzie. Aktualnie na rynku jest wiele preparatów – kremów, żeli, globulek -  pozwalających na zwiększenie nawilżenia okolic intymnych. W składzie powinny mieć kwas hialuronowy, który wspomaga regenerację nabłonka i doskonale nawilża. Używanie środka nawilżającego jest równie szczególnie ważne w trakcie współżycia, gdy nadal karmimy dziecko piersią, a nabłonek pochwy nie produkuje wystarczająco dużo wydzieliny, aby seks był dla kobiety przyjemnością. Warto zaopatrzyć się w lubrykant i stosować go w trakcie stosunku. Jeżeli obawiasz się, że wystąpi np. wypływ mleka, załóż sobie ulubiony stanik, aby nie myśleć o tym w trakcie współżycia.  Nie rób niczego na siłę i pomyśl o innych formach zbliżenia z partnerem, które będzie dla Was obojga satysfakcjonujące, a nie będzie wymagało pełnej penetracji.  Pamiętaj, że seks po porodzie będzie inny i możesz mieć wrażenie jakbyś robiła to pierwszy raz, dlatego podejdź do tego na luzie i zaangażuj partnera, ponieważ łatwiej będzie się odnaleźć w nowej sytuacji we dwoje.
+
+<script 
+async defer crossorigin="anonymous" src="https://connect.facebook.net/pl_PL/sdk.js#xfbml=1&version=v9.0" nonce="lbQF2LB5">
+</script>
+
+<meta property="fb:admins" content="filip.pietluch"/>
+
+<div
+class="fb-comments" data-href="https://kamilalabedz.netlify.app/blog/seks-_a_karmienie-_piersią/" data-numposts="1" data-width="100%">
+</div>
