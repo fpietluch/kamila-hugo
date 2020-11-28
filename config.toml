@@ -92,7 +92,7 @@ unsafe= true
           url  = "blog"
         [[params.footer.sitemap.link]]
           name = "Kontakt"
-          url  = "kontakt"
+          url  = "contact"
       # Footer Social Media
       [params.footer.social]
         title   = "Social Media"
